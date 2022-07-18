@@ -15,7 +15,7 @@ calc --help
 
 Add two numbers
 ``` bash
-calc 5 6
+calc add 5 6
 ```
 
 
