@@ -18,4 +18,18 @@ Add two numbers
 calc add 5 6
 ```
 
+Subtract two numbers
+``` bash
+calc subtract 5 6
+```
+
+Multiply two numbers
+``` bash
+calc multiply 5 6
+```
+
+Divide two numbers
+``` bash
+calc divide 5 6
+```
 
